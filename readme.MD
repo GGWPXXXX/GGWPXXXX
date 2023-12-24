@@ -32,12 +32,12 @@ class GG_WPX:
 
 # Contact
     
-📫 You can contact me via <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" style="height: 20px; border-radius:10px "> : <a href=mailto:pattadon2546pn@gmail.com>Email</a> <br>
+📫 You can contact me via <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" style="height: 20px; border-radius:10px">: <a href="mailto:pattadon2546pn@gmail.com">Email</a><br>
 📫 You can contact me via <img src="https://avatars.githubusercontent.com/u/1965106?s=280&v=4" style="height: 20px; border-radius:10px">: gg_wpx<br>
-📫 You can contact me via <img src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" style="height: 20px; border-radius:10px">: [Facebook](https://www.facebook.com/nakenat12)<br>
-📫 You can contact me via <img src="https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png" style="height: 20px; border-radius:10px">: [Instagram](https://www.instagram.com/nnake_pd/)<br>
-📫 You can contact me via <img src="https://raw.githubusercontent.com/gist/mindplay-dk/56a9e2ada89b1fc8c7834c8c18b37904/raw/563036ceb5ee8a31b7a828c33b11ba7088340e29/twitter.svg" style="height: 20px; border-radius:10px">: [Twitter](https://twitter.com/gg_wpx)<br>
-📫 You can contact me via <img src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" style="height: 20px; border-radius:10px">: [Linkedin](https://www.linkedin.com/in/pattadon-loyprasert-494496244/)<br>
+📫 You can contact me via <img src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" style="height: 20px; border-radius:10px">: <a href="https://www.facebook.com/nakenat12" target="_blank">Facebook</a><br>
+📫 You can contact me via <img src="https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png" style="height: 20px; border-radius:10px">: <a href="https://www.instagram.com/nnake_pd/" target="_blank">Instagram</a><br>
+📫 You can contact me via <img src="https://raw.githubusercontent.com/gist/mindplay-dk/56a9e2ada89b1fc8c7834c8c18b37904/raw/563036ceb5ee8a31b7a828c33b11ba7088340e29/twitter.svg" style="height: 20px; border-radius:10px">: <a href="https://twitter.com/gg_wpx" target="_blank">Twitter</a><br>
+📫 You can contact me via <img src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" style="height: 20px; border-radius:10px">: <a href="https://www.linkedin.com/in/pattadon-loyprasert-494496244/" target="_blank">Linkedin</a><br>
 
 
 # Github Stats
