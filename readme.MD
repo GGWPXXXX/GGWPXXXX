@@ -10,11 +10,11 @@
 
 class GG_WPX:
     def __init__(self):
-        self.username = 'GG_WPX'
-        self.name = 'Pattadon Loyprasert'
-        self.nickname = 'Nake'
-        self.twitter = '@gg_wpx'
-        self.code = {
+        self.__username = 'GG_WPX'
+        self.__name = 'Pattadon Loyprasert'
+        self.__nickname = 'Nake'
+        self.__twitter = '@gg_wpx'
+        self.__code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
             'backend': ['Python', 'Django'],
             'database': ['MySQL', 'Mongo DB', 'NoSQL', 'XML', 'JSON', 'CSV'],
@@ -22,12 +22,12 @@ class GG_WPX:
             'tools': ['GitHub', 'VS Code', 'Jupyter notebook'],
             'languages': ['Python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS'],
         }
-        self.tech_communities = {
+        self.__tech_communities = {
             'Core Team Lead': ['Being a part of the core team member of the Developer Student Club KU'], 
         }
 
     def __str__(self):
-        return self.name
+        return self.__name
 ```
 
 # Contact
