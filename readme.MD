@@ -15,12 +15,12 @@ class GG_WPX:
         self.__nickname = 'Nake'
         self.__twitter = '@gg_wpx'
         self.__code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
+            'frontend': ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', 'ReactJS'],
             'backend': ['Python', 'Django'],
             'database': ['MySQL', 'Mongo DB', 'NoSQL', 'XML', 'JSON', 'CSV'],
             'devops': ['Docker', 'GitHub Actions', 'CI/CD'],
             'tools': ['GitHub', 'VS Code', 'Jupyter notebook'],
-            'languages': ['Python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS'],
+            'languages': ['Python', 'Micro python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS', 'RISCV-Assembly'],
         }
         self.__tech_communities = {
             'Core Team Lead': ['Being a part of the core team member of the Developer Student Club KU'], 
@@ -36,7 +36,6 @@ class GG_WPX:
 📫 You can contact me via <img src="https://avatars.githubusercontent.com/u/1965106?s=280&v=4" style="height: 20px; border-radius:10px">: gg_wpx<br>
 📫 You can contact me via <img src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" style="height: 20px; border-radius:10px">: <a href="https://www.facebook.com/nakenat12" target="_blank">Facebook</a><br>
 📫 You can contact me via <img src="https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png" style="height: 20px; border-radius:10px">: <a href="https://www.instagram.com/nnake_pd/" target="_blank">Instagram</a><br>
-📫 You can contact me via <img src="https://raw.githubusercontent.com/gist/mindplay-dk/56a9e2ada89b1fc8c7834c8c18b37904/raw/563036ceb5ee8a31b7a828c33b11ba7088340e29/twitter.svg" style="height: 20px; border-radius:10px">: <a href="https://twitter.com/gg_wpx" target="_blank">Twitter</a><br>
 📫 You can contact me via <img src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" style="height: 20px; border-radius:10px">: <a href="https://www.linkedin.com/in/pattadon-loyprasert-494496244/" target="_blank">Linkedin</a><br>
 
 
