@@ -13,13 +13,12 @@ class GG_WPX:
         self.__username = 'GG_WPX'
         self.__name = 'Pattadon Loyprasert'
         self.__nickname = 'Nake'
-        self.__twitter = '@gg_wpx'
         self.__code = {
             'frontend': ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', 'ReactJS'],
-            'backend': ['Python', 'Django'],
+            'backend': ['Python', 'Django'm 'Go'],
             'database': ['MySQL', 'Mongo DB', 'NoSQL', 'XML', 'JSON', 'CSV'],
             'devops': ['Docker', 'GitHub Actions', 'CI/CD'],
-            'tools': ['GitHub', 'VS Code', 'Jupyter notebook'],
+            'tools': ['GitHub', 'VSCode', 'Jupyter notebook'],
             'languages': ['Python', 'Micro python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS', 'RISCV-Assembly'],
         }
         self.__tech_communities = {
