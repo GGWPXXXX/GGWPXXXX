@@ -14,15 +14,18 @@ class GG_WPX:
         self.__name = 'Pattadon Loyprasert'
         self.__nickname = 'Nake'
         self.__code = {
-            'frontend': ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', 'ReactJS'],
-            'backend': ['Python', 'Django'm 'Go'],
-            'database': ['MySQL', 'Mongo DB', 'NoSQL', 'XML', 'JSON', 'CSV'],
-            'devops': ['Docker', 'GitHub Actions', 'CI/CD'],
-            'tools': ['GitHub', 'VSCode', 'Jupyter notebook'],
-            'languages': ['Python', 'Micro python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS', 'RISCV-Assembly'],
+            'Frontend': ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', 'ReactJS'],
+            'Backend': ['Python', 'Django', 'Go'],
+            'Database': ['MySQL', 'Mongo DB', 'NoSQL', 'XML', 'JSON', 'CSV'],
+            'DevOps': ['Docker', 'GitHub Actions', 'CI/CD'],
+            'Tools': ['GitHub', 'VSCode', 'Jupyter notebook'],
+            'Languages': ['Python', 'Micro python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS', 'RISCV-Assembly'],
         }
         self.__tech_communities = {
             'Core Team Lead': ['Being a part of the core team member of the Developer Student Club KU'], 
+        }  
+        self.__experience = {
+            'Internship': ['Took an internship at BTS Group Holdings Public Company Limited in Digital Solutions.']
         }
 
     def __str__(self):
