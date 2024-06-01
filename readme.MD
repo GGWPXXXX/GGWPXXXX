@@ -19,7 +19,7 @@ class GG_WPX:
             'Database': ['MySQL', 'Mongo DB', 'NoSQL', 'XML', 'JSON', 'CSV'],
             'DevOps': ['Docker', 'GitHub Actions', 'CI/CD'],
             'Tools': ['GitHub', 'VSCode', 'Jupyter notebook'],
-            'Languages': ['Python', 'Micro python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS', 'RISCV-Assembly'],
+            'Languages': ['Python', 'Micro python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS', 'RISCV-Assembly', 'Go'],
         }
         self.__tech_communities = {
             'Core Team Lead': ['Being a part of the core team member of the Developer Student Club KU'], 
