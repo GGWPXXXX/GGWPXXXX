@@ -14,7 +14,7 @@ class GG_WPX:
         self.__name = 'Pattadon Loyprasert'
         self.__nickname = 'Nake'
         self.__code = {
-            'Frontend': ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', 'ReactJS'],
+            'Frontend': ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', ''TypeScript, 'ReactJS', ''],
             'Backend': ['Python', 'Django', 'Go'],
             'Database': ['MySQL', 'Mongo DB', 'NoSQL', 'XML', 'JSON', 'CSV'],
             'DevOps': ['Docker', 'GitHub Actions', 'CI/CD'],
