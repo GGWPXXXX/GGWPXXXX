@@ -1,10 +1,10 @@
-# Introduction
+<h1 align="center">👋 Introduction 👋</h1>
 
                     😊 Hi nice to meet y'all 😊                 
     🤗 I'm GG_WPX you can call me Nake or Nex or whatever you like 🤗 
     😎 I'm currently studying at Kasetsart University(SoftEn) SKE20 😎
 
-# My skills
+<h1 align="center">🐦 Skills 🐦</h1>
 
 ```python
 
@@ -31,8 +31,7 @@ class GG_WPX:
     def __str__(self):
         return self.__name
 ```
-
-# Contact
+<h1 align="center">🐦‍🔥 Contact 🐦‍🔥</h1>
     
 📫 You can contact me via <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" style="height: 20px; border-radius:10px">: <a href="mailto:pattadon2546pn@gmail.com">Email</a><br>
 📫 You can contact me via <img src="https://avatars.githubusercontent.com/u/1965106?s=280&v=4" style="height: 20px; border-radius:10px">: gg_wpx<br>
@@ -41,9 +40,12 @@ class GG_WPX:
 📫 You can contact me via <img src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" style="height: 20px; border-radius:10px">: <a href="https://www.linkedin.com/in/pattadon-loyprasert-494496244/" target="_blank">Linkedin</a><br>
 
 
-# Github Stats
+<h1 align="center">⚡ Current Stats ⚡</h1>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=GGWPXXXX&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=GGWPXXXX&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGWPXXXX&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGWPXXXX&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
- # Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGWPXXXX&layout=compact&theme=highcontrast)
+  <br/>
