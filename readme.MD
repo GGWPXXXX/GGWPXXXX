@@ -1,9 +1,17 @@
 <h1 align="center">👋 Introduction 👋</h1>
 
-                    😊 Hi nice to meet y'all 😊                 
-    🤗 I'm GG_WPX you can call me Nake or Nex or whatever you like 🤗 
-    😎 I'm currently studying at Kasetsart University(SoftEn) SKE20 😎
-
+<h4 align="center">
+    😊 Hi nice to meet y'all 😊 <br>
+    🤗 I'm GG_WPX, you can call me Nake or Nex or whatever you like 🤗 <br>
+    😎 I'm currently studying at Kasetsart University (SoftEn) SKE20 😎
+</h4>
+<br> 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,docker,html,css,java,react,nodejs,nextjs,vite,tailwindcss,python,git,github,githubactions,npm,pnpm,amazonwebservices,materialui,markdown,mysql,selenium,go,php,django,jquery" />
+  </a>
+</div>
+<br>
 <h1 align="center">🐦 Skills 🐦</h1>
 
 ```python
@@ -31,6 +39,7 @@ class GG_WPX:
     def __str__(self):
         return self.__name
 ```
+
 <h1 align="center">🐦‍🔥 Contact 🐦‍🔥</h1>
     
 📫 You can contact me via <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" style="height: 20px; border-radius:10px">: <a href="mailto:pattadon2546pn@gmail.com">Email</a><br>
