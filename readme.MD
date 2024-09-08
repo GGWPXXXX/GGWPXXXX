@@ -74,7 +74,7 @@ class GG_WPX:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GGWPXXXX&color=ff69b4&label=Visitor+Number" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=GGWPXXXX&color=ff69b4&label=Visitor+Number&style=for-the-badge" alt="Visitor Counter">
 </p>
 
 ---
