@@ -66,3 +66,18 @@ class GG_WPX:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GGWPXXXX/GGWPXXXX/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<h1 align="center">📱 Welcome to My GitHub Profile! 📱</h1>
+<p align="center">Hello there! 👋🏼 Thanks for stopping by my profile.</p>
+<p align="center">
+  <strong>You're visitor number:</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GGWPXXXX&color=ff69b4&label=Visitor+Number" alt="Visitor Counter">
+</p>
+
+---
+
+Feel free to explore my repositories and projects below!
+
