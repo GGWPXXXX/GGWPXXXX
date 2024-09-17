@@ -69,12 +69,9 @@ class GG_WPX:
 
 <h1 align="center">📱 Welcome to My GitHub Profile! 📱</h1>
 <p align="center">Hello there! 👋🏼 Thanks for stopping by my profile.</p>
-<p align="center">
-  <strong>You're visitor number:</strong>
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GGWPXXXX&color=ff69b4&label=Visitor+Number&style=for-the-badge" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=GGWPXXXX&color=ff69b4&label=Your're+Visitor+Number&style=for-the-badge" alt="Visitor Counter">
 </p>
 
 ---
