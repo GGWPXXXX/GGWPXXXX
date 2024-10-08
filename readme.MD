@@ -3,7 +3,7 @@
 <h4 align="center">
     😊 Hi nice to meet y'all 😊 <br>
     🤗 I'm GG_WPX, you can call me Nake or Nex or whatever you like 🤗 <br>
-    😎 I'm currently studying at Kasetsart University (SoftEn) SKE20 😎
+    😎 I'm currently studying at Kasetsart University (Software Engineer) SKE20 😎
 </h4>
 <br> 
 <div align="center">
