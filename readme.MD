@@ -22,12 +22,12 @@ class GG_WPX:
         self.__name = 'Pattadon Loyprasert'
         self.__nickname = 'Nake'
         self.__code = {
-            'Frontend': ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', 'TypeScript', 'ReactJS', 'PHP'],
-            'Backend': ['Python', 'Django', 'Go'],
-            'Database': ['MySQL', 'Mongo DB', 'NoSQL', 'XML', 'JSON', 'CSV'],
-            'DevOps': ['Docker', 'GitHub Actions', 'CI/CD'],
-            'Tools': ['GitHub', 'VSCode', 'Jupyter notebook'],
-            'Languages': ['Python', 'Micro python', 'C', 'C++', 'Java', 'JavaScript', 'HTML', 'CSS', 'RISCV-Assembly', 'Go'],
+            'Programming Languages': ['Python','Java','JavaScript', 'TypeScript', 'Go', 'PHP'],
+            'Frameworks/Libraries': ['Django', 'React.js', 'Next.js', 'Tailwind CSS'],
+            'Testing': ['Selenium (End-to-End Testing)', 'Unit Tests'],
+            'Work Processes': ['Agile (Scrum)', 'Waterfall'],
+            'Databases': ['MongoDB', 'MySQL', 'NoSQL'],
+            'CI/CD Tools': ['GitHub' 'Actions', 'Docker'],
         }
         self.__tech_communities = {
             'Core Team Lead': ['Being a part of the core team member of the Developer Student Club KU'], 
