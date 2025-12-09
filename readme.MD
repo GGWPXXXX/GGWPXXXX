@@ -53,12 +53,12 @@ class GG_WPX:
   <img style="height: 200px; width: 390px;" 
        src="https://nirzak-streak-stats.vercel.app?user=GGWPXXXX&theme=dark" 
        alt="streak stats" />
-  <img style="height: 200px; width: 390px;" 
+<!--  <img style="height: 200px; width: 390px;" 
        src="https://github-readme-stats.vercel.app/api?username=GGWPXXXX&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
        alt="readme stats" />
   <img style="height: 200px; width: 325px;" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGWPXXXX&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-       alt="top langs" />
+       alt="top langs" /> -->
 </div>
 
 
